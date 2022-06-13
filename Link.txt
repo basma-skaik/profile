@@ -1,0 +1,3 @@
+https://fontawesome.com/
+https://fonts.google.com/specimen/Poppins
+https://cdnjs.com/libraries/font-awesome/5.15.4
